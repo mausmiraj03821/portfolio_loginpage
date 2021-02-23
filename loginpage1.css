@@ -1,0 +1,133 @@
+.h400 {
+    height: 400px;
+    border: 1px solid;
+}
+
+.fcwhite {
+    color: white;
+}
+
+.fsize5 {
+    font-size: 12px;
+}
+
+.bimg {
+    background-image: url('https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg');
+    background-size: cover;
+}
+
+.div3 {
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 130px;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.51);
+    backface-visibility: hidden;
+    transition: 2s;
+    transform-style: preserve-3d;
+}
+
+.div3:hover {
+    transform: rotatey(180deg);
+}
+
+.icon6 {
+    margin-left: 110px;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+}
+
+.icon7 {
+    margin-left: 12px;
+    margin-top: 15px;
+}
+
+.icon8 {
+    margin-left: 16px;
+}
+
+.TextBox7 {
+    width: 250px;
+    height: 35px;
+    margin-top: 30px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    font-size: 12px;
+    margin-left: 25px;
+}
+
+.TextBox8 {
+    width: 250px;
+    height: 35px;
+    margin-top: 30px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    font-size: 12px;
+    margin-left: 25px;
+}
+
+.Button4 {
+    width: 200px;
+    height: 30px;
+    border: 2px solid gray;
+    margin-top: 40px;
+    margin-left: 50px;
+    background-color: #ea4665;
+}
+
+.div4 {
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 130px;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.21);
+    transition: 2s;
+    backface-visibility: hidden;
+    transform: rotatey(180deg);
+    transform-style: preserve-3d;
+}
+
+.label1 {
+    font-size: 12px;
+}
+
+.box1 {
+    width: 150px;
+    height: 20px;
+    margin-left: 40px;
+}
+
+.box2 {
+    width: 150px;
+    height: 20px;
+    margin-left: 43px;
+}
+
+.box3 {
+    width: 150px;
+    height: 20px;
+    margin-left: 57px;
+}
+
+.box4 {
+    width: 150px;
+    height: 20px;
+    margin-left: 49px;
+}
+
+.box5 {
+    width: 150px;
+    height: 20px;
+    margin-left: 5px;
+}
+
+.bt4 {
+    width: 100px;
+    height: 20px;
+    background: black;
+    border: none;
+    font-size: 12px;
+}

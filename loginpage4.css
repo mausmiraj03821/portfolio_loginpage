@@ -1,0 +1,92 @@
+.h350 {
+    height: 350px;
+}
+
+.bg3 {
+    background-color: #2196f36b;
+}
+
+.bg4 {
+    background-color: #8bc34a94;
+    ;
+}
+
+.fsize5 {
+    font-size: 12px;
+}
+
+.fcblue {
+    color: dodgerblue;
+}
+
+.fcwhite {
+    color: white;
+}
+
+.fcgray {
+    color: gray;
+}
+
+.bradius {
+    border-radius: 5px;
+}
+
+.div1 {
+    width: 300px;
+    height: 350px;
+    overflow: hidden;
+    margin: auto;
+}
+
+.div2 {
+    width: 300px;
+    position: relative;
+    left: -300px;
+    margin-top: -335px;
+    background-color: rgb(50 76 21);
+    transition: 2s;
+}
+
+.TextBox5 {
+    width: 220px;
+    height: 35px;
+    margin-top: 22px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    font-size: 12px;
+    background: none;
+}
+
+.Button {
+    background: none;
+    outline: none;
+    border: none;
+}
+
+.Button3 {
+    width: 220px;
+    height: 30px;
+    border: 2px solid #3f51b5;
+    border-radius: 5px;
+    margin-top: 30px;
+    background-color: #3f51b5;
+}
+
+.label2 {
+    margin-top: 8px;
+    width: 190px;
+    height: 30px;
+    font-size: 12px;
+    border: 2px solid gray;
+}
+
+.Button1 {
+    width: 100px;
+    height: 30px;
+    border: 2px solid gray;
+    border-radius: 10px;
+    background: white;
+    margin-top: 10px;
+    margin-left: 90px;
+    border: none;
+}
